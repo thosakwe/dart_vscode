@@ -1,2 +1,2 @@
 # dart_vscode
-Dart bindings  the VSCode API.
+Dart bindings for the VSCode API.
